@@ -1,5 +1,3 @@
-// time :- 4 hrs 36 min
-// Current time :- 4 hrs 45 min
 // dependencies installed :- express, mongoose, multer, bcrypt(to encrypt the password), cloudinary(to store images on cloud), cors, dotenv ,jsonwebtoken(to create authentication system), nodemon(to restart server automatically when we make changes/save file),validator
 // To start server :- npm start (or) node server.js  /  npm run server (or) nodemon server.js 
 
